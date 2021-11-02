@@ -1,4 +1,4 @@
-# Projeto de estudo Compra De Pizzas
+# Projeto Compra De Pizzas
 
 
 ![pc](https://user-images.githubusercontent.com/82732587/134820655-a7350575-1cd2-4d24-9619-7c4aa34192f6.gif)
